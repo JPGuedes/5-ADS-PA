@@ -6,3 +6,4 @@ Professor orientador
 
 Alunos
 * Anderson Pires dos Santos
+* João Paulo Nunes Souza Guedes
